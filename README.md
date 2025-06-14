@@ -22,14 +22,8 @@ Database:  PostgreSQL, Prisma ORM
 QA:        Java, Selenium, TestNG
 CI/CD:     GitHub Actions
 
-flowchart TD
-    A[Start] --> B{Test Type}
-    B -->|Manual| C[Manual Testing]
-    B -->|Automated| D[Automation Scripts]
-    C --> E[Manual Report]
-    D --> F[Automation Report]
-    E --> G[Push to GitHub]
-    F --> G
+![Test Chart](charts/test_distribution.png)
+
 
 
 📫 Let's Connect
