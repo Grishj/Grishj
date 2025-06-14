@@ -87,16 +87,6 @@ I'm a dedicated developer specializing in **React Native mobile apps**, **Node.j
 
 ---
 
-## 🗃️ Featured Repositories
-
-<div align="center">
-
-[![Mobile Banking App](https://github-readme-stats.vercel.app/api/pin/?username=grishj&repo=grishj-mobapp&theme=radical)](https://github.com/grishj/grishj-mobapp)
-[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=grishj&repo=grishj-expense_tracker&theme=radical)](https://github.com/grishj/grishj-expense_tracker)
-
-[![QA Automation](https://github-readme-stats.vercel.app/api/pin/?username=grishj&repo=qa-automation-java&theme=radical)](https://github.com/grishj/qa-automation-java)
-
-</div>
 
 ---
 
