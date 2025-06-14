@@ -1,37 +1,72 @@
 # 👋 Hi, I'm Grish Joshi
 
-I'm a passionate full-stack and automation developer from Nepal 🇳🇵. I specialize in **React Native mobile apps**, **Node.js APIs**, and **Java automation testing**. I love learning by building hands-on projects.
+Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **QA automation engineer** from Nepal 🇳🇵. I love solving problems by building hands-on projects and visual dashboards. Whether it’s an automation script or a mobile app, I enjoy turning ideas into working solutions.
 
 ---
 
-## 🚀 Current Projects
+## 🧩 Mermaid Diagram (Auto-rendered)
 
-- 📱 **React Native Projects** – Testbook-like mobile apps for e-learning and booking platforms
-- 💳 **Mobile Banking App Clone** – Full-stack app using React Native, Node.js, PostgreSQL
-- 💰 **Expense Tracker** – Built with Expo, PostgreSQL, Express.js, and Prisma
-- 🧪 **QA Automation Projects (Java + Selenium/TestNG)** – 30 days of hands-on automation practice
+```mermaid
+flowchart TD
+    A[Start Project] --> B{Choose Type}
+    B -->|Frontend| C[React Native App]
+    B -->|Backend| D[Node.js API]
+    B -->|QA Automation| E[Java + Selenium]
+    C --> G[Deploy to Expo]
+    D --> H[Deploy to Render/Vercel]
+    E --> I[Run GitHub Actions]
+    G --> J[Track on GitHub]
+    H --> J
+    I --> J
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Automation Chart (Auto-updated with GitHub Actions)
 
-```text
-Frontend:  React Native, JavaScript
-Backend:   Node.js, Express.js, JWT
-Database:  PostgreSQL, Prisma ORM
-QA:        Java, Selenium, TestNG
-CI/CD:     GitHub Actions
+> Example chart for test distribution (generated via Python + Matplotlib):
 
 ![Test Chart](charts/test_distribution.png)
 
+*🛠️ This chart auto-updates using GitHub Actions. New charts are added as I progress in QA automation and analytics.*
 
+---
 
-📫 Let's Connect
-✉️ Email: [grish9869404451@gmail.com]
+## 💼 Projects I'm Building
 
-💻 GitHub: github.com/grishj
+- 📱 **Testbook-style Quiz App** (React Native + PostgreSQL)
+- 🏦 **Mobile Banking Clone** (Expo + Node.js + Prisma)
+- 💰 **Expense Tracker App** (Charts + Categories + Monthly Views)
+- 🧪 **30 Days of Java Automation** (Selenium, TestNG, Maven)
 
+---
 
-🧠 Fun Fact
-I love solving problems hands-on and learning by building—code is my language of creativity.
+## 🔧 Tech Stack
 
+```text
+📱 Frontend:   React Native, JavaScript, Tailwind CSS
+⚙️ Backend:    Node.js, Express.js, JWT Auth
+🧠 Database:   PostgreSQL, Prisma ORM, SQL
+🧪 QA:         Java, Selenium, TestNG, Maven
+🚀 DevOps:     GitHub Actions, VS Code, Git, Expo
+```
+
+---
+
+## 📊 What's Next?
+
+- 🔄 Automating report updates with daily GitHub Actions
+- 📂 Generating code coverage and bug reports
+- 📈 Visualizing expense and booking analytics
+- 🌐 Deploying full-stack apps using CI/CD
+
+---
+
+## 📫 Connect with Me
+
+- 💻 GitHub: [github.com/grishj](https://github.com/grishj)
+- ✉️ Email: grish9869404451@gmail.com
+
+---
+
+_💡 “I build, test, learn — and repeat until it works.”_
