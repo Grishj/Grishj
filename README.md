@@ -1,72 +1,62 @@
 # 👋 Hi, I'm Grish Joshi
 
-Welcome to my GitHub profile! I'm a passionate **full-stack developer** and **QA automation engineer** from Nepal 🇳🇵. I love solving problems by building hands-on projects and visual dashboards. Whether it’s an automation script or a mobile app, I enjoy turning ideas into working solutions.
+Welcome to my GitHub! I'm a passionate full-stack and automation developer from Nepal 🇳🇵 who loves building impactful digital products. I specialize in **React Native mobile apps**, **Node.js backends**, and **automated QA engineering** using **Java**.
 
 ---
 
-## 🧩 Mermaid Diagram (Auto-rendered)
+## 🚀 What I'm Working On
+
+- 🧪 **QA Automation Projects (Java + Selenium/TestNG)** – 30 days of hands-on automation practice
+- 📱 **React Native Projects** – Testbook-like mobile apps for e-learning and booking platforms
+- 💳 **Mobile Banking App Clone** – Full-stack app using React Native, Node.js, PostgreSQL
+- 💰 **Expense Tracker** – Built with Expo, PostgreSQL, Express.js, and Prisma
+- 🧾 **Booking History and Analytics Dashboards** – With earnings filter, top clients, and stats
+
+---
+
+## 🛠️ My Tech Stack
+
+| Area              | Tools & Frameworks                                       |
+|-------------------|----------------------------------------------------------|
+| **Frontend**      | React Native, JavaScript, Expo, Tailwind                 |
+| **Backend**       | Node.js, Express, REST APIs, JWT Auth                    |
+| **Database**      | PostgreSQL, Prisma ORM, SQL                              |
+| **Automation QA** | Java, Selenium, TestNG, Maven, GitHub Actions            |
+| **DevOps**        | GitHub, VS Code, GitHub Actions CI/CD                    |
+| **Visualization** | Matplotlib, Mermaid.js, PlantUML                         |
+
+---
+
+## 📈 Live Automation Charts
+
+> These charts update daily using GitHub Actions and show automation/test progress:
+
+![Test Execution Distribution](charts/test_distribution.png)
+
+---
+
+## 🧩 Mermaid Diagrams (Auto-updated)
 
 ```mermaid
 flowchart TD
-    A[Start Project] --> B{Choose Type}
-    B -->|Frontend| C[React Native App]
-    B -->|Backend| D[Node.js API]
-    B -->|QA Automation| E[Java + Selenium]
-    C --> G[Deploy to Expo]
-    D --> H[Deploy to Render/Vercel]
-    E --> I[Run GitHub Actions]
-    G --> J[Track on GitHub]
-    H --> J
-    I --> J
-```
+    A[Start Automation] --> B{Test Type}
+    B -->|Manual| C[Manual Testing]
+    B -->|Automated| D[Run Scripts]
+    C --> E[Test Report]
+    D --> E
+    E --> F[Push to GitHub]
+🗃️ Projects & Repositories
+grishj-mobapp – Full-stack mobile banking app
 
----
+grishj-expense_tracker – Expense tracker with graphs
 
-## 📈 Automation Chart (Auto-updated with GitHub Actions)
+qa-automation-java – 30 days of Java QA projects
 
-> Example chart for test distribution (generated via Python + Matplotlib):
+📫 Let's Connect
+✉️ Email: [your-email@example.com]
 
-![Test Chart](charts/test_distribution.png)
+🌐 LinkedIn: linkedin.com/in/yourprofile
 
-*🛠️ This chart auto-updates using GitHub Actions. New charts are added as I progress in QA automation and analytics.*
-
----
-
-## 💼 Projects I'm Building
-
-- 📱 **Testbook-style Quiz App** (React Native + PostgreSQL)
-- 🏦 **Mobile Banking Clone** (Expo + Node.js + Prisma)
-- 💰 **Expense Tracker App** (Charts + Categories + Monthly Views)
-- 🧪 **30 Days of Java Automation** (Selenium, TestNG, Maven)
-
----
-
-## 🔧 Tech Stack
-
-```text
-📱 Frontend:   React Native, JavaScript, Tailwind CSS
-⚙️ Backend:    Node.js, Express.js, JWT Auth
-🧠 Database:   PostgreSQL, Prisma ORM, SQL
-🧪 QA:         Java, Selenium, TestNG, Maven
-🚀 DevOps:     GitHub Actions, VS Code, Git, Expo
-```
-
----
-
-## 📊 What's Next?
-
-- 🔄 Automating report updates with daily GitHub Actions
-- 📂 Generating code coverage and bug reports
-- 📈 Visualizing expense and booking analytics
-- 🌐 Deploying full-stack apps using CI/CD
-
----
-
-## 📫 Connect with Me
-
-- 💻 GitHub: [github.com/grishj](https://github.com/grishj)
-- ✉️ Email: grish9869404451@gmail.com
-
----
+💻 GitHub: github.com/grishj
 
 _💡 “I build, test, learn — and repeat until it works.”_
