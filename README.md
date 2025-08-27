@@ -9,7 +9,7 @@
 
 *Building impactful digital products with modern technologies*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome)](https://grishjoshi.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome)](https://grishjoshi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-grish9869404451%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:grish9869404451@gmail.com)
 
 </div>
@@ -105,7 +105,7 @@ I'm constantly evolving my skills and exploring new technologies. Currently divi
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://grishjoshi.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://grishjoshi.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grish9869404451@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grishj)
 
