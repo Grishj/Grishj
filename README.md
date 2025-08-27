@@ -40,7 +40,7 @@ I'm a dedicated developer specializing in **React Native mobile apps**, **Node.j
 |---------|-------------|------------|
 | 💰 **Expense Tracker** | Personal finance management app | Expo, PostgreSQL, Express.js, Prisma |
 | 🏠 **Home Solution App** | On-demand home delivery service | Full-stack React Native solution |
-| 🏠 **BookWorm** | Book recommendation app| Full-stack React Native solution |
+| 🧾 **BookWorm** | Book recommendation app| Full-stack React Native solution |
 
 ---
 
