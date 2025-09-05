@@ -29,7 +29,6 @@ I'm a dedicated developer specializing in **React Native mobile apps**, **Node.j
 - 🧪 **QA Automation Projects** - 30 days of hands-on automation practice with Java + Selenium/TestNG
 - 📱 **React Native Projects** - Building Testbook-like mobile apps for e-learning and booking platforms
 - 💳 **Mobile Banking App Clone** - Full-stack application using React Native, Node.js, and PostgreSQL
-- 💰 **Expense Tracker** - Feature-rich app built with Expo, PostgreSQL, Express.js, and Prisma
 - 🧾 **Analytics Dashboards** - Booking history and analytics with earnings filters, top clients, and comprehensive stats
 
 ---
